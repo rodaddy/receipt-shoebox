@@ -2,7 +2,7 @@
 
 All notable changes to Receipt Shoebox are recorded here. This file follows
 Keep a Changelog and Semantic Versioning. The version here, the `VERSION` file,
-and the `**Version:**` line in `installer.md` must always agree -- the §4.8
+and the `**Version:**` line in `installer.md` must always agree -- the Section 3A
 upgrade path compares them.
 
 ## [1.1.4] - 2026-08-17
