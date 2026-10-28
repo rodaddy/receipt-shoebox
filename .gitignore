@@ -1,0 +1,4 @@
+# Fixture ledgers written by `node --test tests/shoebox-ledger.test.mjs`.
+# The suite defaults here so the command printed in README.md runs as written;
+# set SHOEBOX_TEST_SCRATCH to send them somewhere else instead.
+tests/scratch/

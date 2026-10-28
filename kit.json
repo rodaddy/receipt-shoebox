@@ -1,0 +1,9 @@
+{
+  "name": "receipt-shoebox",
+  "version": "1.1.4",
+  "requirements": {
+    "runtimes": {
+      "node": ">=22.6.0"
+    }
+  }
+}
