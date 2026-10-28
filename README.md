@@ -108,6 +108,15 @@ contact rico@rtech-consulting.com.
 - `tiers/`: tier notes
 - `docs/images/`: README images
 
+## How it was built
+
+Receipt Shoebox was built in July and August 2026 as an AI skill whose first
+rule is never to guess money. An internal review on 2026-08-11 found it filed a
+landscaper's largest costs as uncategorized, which led to job costing. Three
+rounds of simulated buyers, a tested ledger script and a review by a second
+model family followed. The build story has the dates, the decisions and what
+did not work: [docs/BUILD-STORY.md](docs/BUILD-STORY.md).
+
 ## Project status
 
 Experimental. Version 1.1.4. The install has been checked in the Claude app and
